@@ -1,0 +1,14 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\bin\Debug\net6.0\ref\SnakeAndLadder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\ref\SnakeAndLadder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.genruntimeconfig.cache
